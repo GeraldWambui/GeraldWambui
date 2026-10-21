@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0284C7&height=220&section=header&text=Gerald%20Wambui&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Architecture%20%26%20Distributed%20Systems&descAlignY=62&descSize=18&descColor=38BDF8" width="100%" alt="Hi there"/>
+  
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=%3E+Architecting+Resilient+Backend+Systems;%3E+High-Concurrency+%26+ACID+Data+Integrity;%3E+Cloud-Native%3A+AWS+%E2%80%A2+Terraform+IaC+%E2%80%A2+Docker;%3E+Observability-Driven+Development+(Prometheus+%26+Grafana)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=%3E+Architecting+Resilient+Systems;%3E+High-Concurrency+%26+ACID+Data+Integrity;%3E+Cloud-Native%3A+Supabase+%S3%80%A2+IaC+%E2%80%A2+Docker;%3E+Observability" alt="Typing SVG" />
   </a>
 </p>
 
