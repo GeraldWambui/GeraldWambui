@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0284C7&height=220&section=header&text=Gerald%20Wambui&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Architecture%20%26%20Distributed%20Systems&descAlignY=62&descSize=18&descColor=38BDF8" width="100%" alt="Header Banner"/>
+  
 </p>
 
 <p align="center">
@@ -9,15 +9,12 @@
 </p>
 
 <p align="center">
-  <strong>Building fault-tolerant, high-throughput backend APIs with clean architecture, enterprise cloud infrastructure, and zero-downtime automation.</strong>
-</p>
-
-<p align="center">
   <a href="https://github.com/GeraldWambui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:geraldwainaina25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/gerald-wambui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/dev?id=8189618413462718446"><img src="https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  &nbsp;
 </p>
 
 ---
@@ -32,37 +29,6 @@ I am **Gerald Wambui**, a **Backend Engineer** focused on building robust, high-
 - **Cloud Native & Infrastructure as Code:** Provisioning automated, zero-cost, serverless container environments on **AWS (App Runner, ECR, IAM)** using declarative **HashiCorp Terraform**.
 - **Production CI/CD & Automated Testing:** Automated testing quality gates (14+ test suites) blocking PR merges until strict concurrency and boundary invariants pass.
 - **RESTful API Architecture:** Designing clean, standardized OpenAPI specifications with FastAPI, Pydantic v2, and distributed request correlation tracing.
-
----
-
-## Tech Stack & Tooling
-
-### Core Backend & Persistence
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,redis" />
-</p>
-
-### Cloud Infrastructure & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,git,linux,bash" />
-</p>
-
-### Developer Environment & Workflow
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,vscode,github,pycharm" />
-</p>
-
----
-
-## Featured Production System
-
-### [Savannah Clinic Booking System API](https://github.com/GeraldWambui/savannah-clinic-booking-api)
-> **Live on AWS App Runner:** [https://hf5vyszv5v.us-east-1.awsapprunner.com/docs](https://hf5vyszv5v.us-east-1.awsapprunner.com/docs)
-
-- **Architecture:** FastAPI (Python 3.12), SQLAlchemy 2.0, PostgreSQL, Docker, AWS App Runner, Amazon ECR, HashiCorp Terraform.
-- **Concurrency Safety:** Engine-level partial unique index `(doctor_id, start_time) WHERE status != 'CANCELLED'`, eliminating Time-of-Check to Time-of-Use (TOCTOU) race conditions under high concurrent traffic.
-- **Dynamic Scheduling:** In-memory 30-minute slot calculation avoiding database slot pre-generation bloat.
-- **CI/CD Quality Gate:** Automated 14-test suite running on all PRs before merge, with continuous deployment to AWS.
 
 ---
 
@@ -82,13 +48,6 @@ I am **Gerald Wambui**, a **Backend Engineer** focused on building robust, high-
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeraldWambui&bg_color=0D1117&color=38BDF8&line=0284C7&point=38BDF8&area=true&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
-</p>
-
----
 
 ## Connect & Inquiries
 
