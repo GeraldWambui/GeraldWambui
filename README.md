@@ -17,44 +17,6 @@
   &nbsp;
 </p>
 
----
-
-## About Me
-
-<img align="right" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="130" alt="Python Specialist" style="padding-left: 20px;"/>
-
-I am **Gerald Wambui**, a **Backend Engineer** focused on building robust, high-performance web systems and resilient cloud architectures.
-
-- **High Concurrency & Data Integrity:** Experienced in solving race conditions, preventing double-bookings, and guaranteeing transactional ACID consistency at the database engine level (Partial Unique Indexes, pessimistic locking).
-- **Cloud Native & Infrastructure as Code:** Provisioning automated, zero-cost, serverless container environments on **AWS (App Runner, ECR, IAM)** using declarative **HashiCorp Terraform**.
-- **Production CI/CD & Automated Testing:** Automated testing quality gates (14+ test suites) blocking PR merges until strict concurrency and boundary invariants pass.
-- **RESTful API Architecture:** Designing clean, standardized OpenAPI specifications with FastAPI, Pydantic v2, and distributed request correlation tracing.
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeraldWambui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=GeraldWambui&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" height="165" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldWambui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="150" alt="Top Languages" />
-</div>
-
----
-
-
-## Connect & Inquiries
-
-- **Focus:** Backend Engineering, Distributed Systems, Cloud Architecture.
-- **Direct Email:** [geraldwainaina25@gmail.com](mailto:geraldwainaina25@gmail.com)
-- **GitHub:** [@GeraldWambui](https://github.com/GeraldWambui)
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
